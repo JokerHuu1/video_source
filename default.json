@@ -24,12 +24,12 @@
         {
             "key": "历史",
             "title": "历史记录",
-            "pic": "https://raw.iqiq.io/JokerHuu1/video_source/main/pic/history.jpg"
+            "pic": "https://raw.iqiq.io/JokerHuu1/video_source/main/pic/default/history.jpg"
         },
         {
             "key": "收藏",
             "title": "我的收藏",
-            "pic": "https://raw.kgithub.com/JokerHuu1/video_source/main/pic/favorites.jpg"
+            "pic": "https://raw.iqiq.io/JokerHuu1/video_source/main/pic/default/favorites.jpg"
         },
         {
             "key": "推送",
