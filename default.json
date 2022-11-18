@@ -23,13 +23,13 @@
         },
         {
             "key": "历史",
-            "title": "历史",
-            "pic": "http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg"
+            "title": "历史记录",
+            "pic": "https://raw.iqiq.io/JokerHuu1/video_source/main/pic/history.jpg"
         },
         {
             "key": "收藏",
-            "title": "收藏",
-            "pic": "http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg"
+            "title": "我的收藏",
+            "pic": "https://raw.kgithub.com/JokerHuu1/video_source/main/pic/favorites.jpg"
         },
         {
             "key": "推送",
