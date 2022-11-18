@@ -18,7 +18,7 @@
         {
             "key": "自选网页",
             "title": "JRS体育直播",
-            "pic": "https://raw.iqiq.io/JokerHuu1/video_source/main/pic/JRSKAN.jpg",
+            "pic": "https://raw.iqiq.io/JokerHuu1/video_source/main/pic/default/JRSKAN.jpg",
             "custom": "eyJuYW1lIjogIuS9k+iCsi1qcnMiLAoidXJsIjogImh0dHA6Ly93d3cuanJza2FuLmNvbSIsCiJVc2VyIjogIuepuiIsCiLmmK/lkKborrDlvZXljoblj7IiOiAiMSIsCiLliJfooajmmL7npLoiOiAiMSIsCiJmZW5sZWkiOiAi5L2T6IKyJOepuiIsCiJob3V6aHVpIjogIiIsCiJxaXNoaXllIjogIuepuiIsCiJzaGlmb3VlcmNpamllcXUiOiAiMCIsCiJqaWVxdXFpYW4iOiAi56m6IiwKImppZXF1aG91IjogIuepuiIsCiJqaWVxdXNodXp1cWlhbiI6ICI8dWwgY2xhc3M9XCJpdGVtIHBsYXkiLAoiamllcXVzaHV6dWhvdSI6ICI8L3VsPiIsCiJ0dXBpYW5xaWFuIjogInNyYz1cIiIsCiJ0dXBpYW5ob3UiOiAiXCIiLAoiYmlhb3RpcWlhbiI6ICJjbGFzcz1cImxhYl90ZWFtX2hvbWVcIj4iLAoiYmlhb3RpaG91IjogIjxsaSBjbGFzcz1cImxhYl9iY1wiIiwKImxpYW5qaWVxaWFuIjogImRhdGEtcGxheT1cImh0dHA6Ly9wbGF5LnNwb3J0c3RlYW02NjYuY29tIiwKImxpYW5qaWVob3UiOiAiXCIiLAoibGpxaWFuemh1aSI6ICJodHRwOi8vcGxheS5zcG9ydHN0ZWFtNjY2LmNvbSIsCiJmdWJpYW90aXFpYW4iOiAiY2xhc3M9XCJsYWJfdGltZVwiPiIsCiJmdWJpYW90aWhvdSI6ICI8L2xpPiIsCiJiZnNoaWZvdWVyY2lqaWVxdSI6ICIwIiwKImJmamllcXVxaWFuIjogIuepuiIsCiJiZmppZXF1aG91IjogIuepuiIsCiJiZmppZXF1c2h1enVxaWFuIjogImNsYXNzPVwic3ViX3BsYXlsaXN0XCIiLAoiYmZqaWVxdXNodXp1aG91IjogIjwvZGl2PiIsCiJ6aHVhbmd0YWlxaWFuIjogImNsYXNzPVwib3RoZXJib3hcIj4iLAoiemh1YW5ndGFpaG91IjogIjwvcD4iLAoiZGFveWFucWlhbiI6ICLlr7zmvJTvvJo8L3NwYW4+IiwKImRhb3lhbmhvdSI6ICI8L3A+IiwKInpodXlhbnFpYW4iOiAi5Li75ryU77yaPC9zcGFuPiIsCiJ6aHV5YW5ob3UiOiAiPC9wPiIsCiJqdXFpbmdxaWFuIjogIjxzcGFuIGNsYXNzPVwiZGF0YVwiIiwKImp1cWluZ2hvdSI6ICI8L3NwYW4+IiwKImJmeXNoaWZvdWVyY2lqaWVxdSI6ICIwIiwKImJmeWppZXF1cWlhbiI6ICLnqboiLAoiYmZ5amllcXVob3UiOiAi56m6IiwKImJmeWppZXF1c2h1enVxaWFuIjogIjxhIiwKImJmeWppZXF1c2h1enVob3UiOiAiL2E+IiwKImJmYmlhb3RpcWlhbiI6ICI8c3Ryb25nPiIsCiJiZmJpYW90aWhvdSI6ICI8L3N0cm9uZz4iLAoiYmZsaWFuamllcWlhbiI6ICJkYXRhLXBsYXk9XCIiLAoiYmZsaWFuamllaG91IjogIlwiIiwKImJmcWlhbnpodWkiOiAiaHR0cDovL3BsYXkuc3BvcnRzdGVhbTY2Ni5jb20ifQ=="
         },
         {
@@ -34,7 +34,7 @@
         {
             "key": "推送",
             "title": "远程推送",
-            "pic": "http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg"
+            "pic": "https://raw.iqiq.io/JokerHuu1/video_source/main/pic/default/DLNA.jpg"
         },
         {
             "key": "直播",
