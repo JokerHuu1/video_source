@@ -2,7 +2,7 @@
     "Home": [
         {
             "key": "自选网页",
-            "title": "JRKAN直播1",
+            "title": "JRKAN直播",
             "pic": "https://dl3.img.timecdn.cn/2022/12/01/JRSKAN.jpg",
             "custom": "eyJuYW1lIjogIkpSS0FO55u05pKtIiwKICAgICJ1cmwiOiAiaHR0cDovL3d3dy5qcnNrYW4uY29tLyIsCiAgICAiVXNlciI6ICLnqboiLAogICAgIuaYr+WQpuiusOW9leWOhuWPsiI6ICIxIiwKICAgICLliJfooajmmL7npLoiOiAiMSIsCiAgICAiZmVubGVpIjogIum7mOiupCTnqboiLAogICAgImhvdXpodWkiOiAiIiwKICAgICJxaXNoaXllIjogIuepuiIsCiAgICAic2hpZm91ZXJjaWppZXF1IjogIjAiLAogICAgImppZXF1cWlhbiI6ICLnqboiLAogICAgImppZXF1aG91IjogIuepuiIsCiAgICAiamllcXVzaHV6dXFpYW4iOiAiPHVsIGNsYXNzPVwiaXRlbSBwbGF5IGQtdG91Y2ggYWN0aXZlIiwKICAgICJqaWVxdXNodXp1aG91IjogIjwvdWw+IiwKICAgICJ0dXBpYW5xaWFuIjogInNyYz1cIiIsCiAgICAidHVwaWFuaG91IjogIlwiIiwKICAgICJiaWFvdGlxaWFuIjogImNsYXNzPVwibGFiX3RlYW1faG9tZVwiPiIsCiAgICAiYmlhb3RpaG91IjogIjxsaSBjbGFzcz1cImxhYl9iY1wiIiwKICAgICJsaWFuamllcWlhbiI6ICJocmVmPVwiaHR0cDovL3BsYXkuc3BvcnRzdGVhbTI2OC5jb20iLAogICAgImxpYW5qaWVob3UiOiAiXCIgZGF0YS1wbGF5IiwKICAgICJsanFpYW56aHVpIjogImh0dHA6Ly9wbGF5LnNwb3J0c3RlYW0yNjguY29tIiwKICAgICJmdWJpYW90aXFpYW4iOiAiPHNwYW4gY2xhc3M9XCJuYW1lXCI+IiwKICAgICJmdWJpYW90aWhvdSI6ICI8bGkgY2xhc3M9XCJsYWJfdGVhbV9ob21lXCI+IiwKICAgICJiZnNoaWZvdWVyY2lqaWVxdSI6ICIwIiwKICAgICJiZmppZXF1cWlhbiI6ICLnqboiLAogICAgImJmamllcXVob3UiOiAi56m6IiwKICAgICJiZmppZXF1c2h1enVxaWFuIjogIjxkaXYgY2xhc3M9XCJzdWJfcGxheWxpc3RcIj4iLAogICAgImJmamllcXVzaHV6dWhvdSI6ICI8L2Rpdj4iLAogICAgInpodWFuZ3RhaXFpYW4iOiAiPGxpIGNsYXNzPVwibGFiX3RpbWVcIj4iLAogICAgInpodWFuZ3RhaWhvdSI6ICI8L2xpPiIsCiAgICAiZGFveWFucWlhbiI6ICI8c3BhbiBjbGFzcz1cIm5hbWVcIj4iLAogICAgImRhb3lhbmhvdSI6ICI8L3NwYW4+IiwKICAgICJ6aHV5YW5xaWFuIjogIjxsaSBjbGFzcz1cImxhYl90ZWFtX2hvbWVcIj4iLAogICAgInpodXlhbmhvdSI6ICI8bGkgY2xhc3M9XCJsYWJfYmNcIj4iLAogICAgImp1cWluZ3FpYW4iOiAiPHVsIGNsYXNzPVwibG9jX2dxIGxvYWRpbmdcIiBkYXRhLXRpdGxlPVwiIiwKICAgICJqdXFpbmdob3UiOiAiXCI+IiwKICAgICJiZnlzaGlmb3VlcmNpamllcXUiOiAiMCIsCiAgICAiYmZ5amllcXVxaWFuIjogIuepuiIsCiAgICAiYmZ5amllcXVob3UiOiAi56m6IiwKICAgICJiZnlqaWVxdXNodXp1cWlhbiI6ICI8YSIsCiAgICAiYmZ5amllcXVzaHV6dWhvdSI6ICIvYT4iLAogICAgImJmYmlhb3RpcWlhbiI6ICI8c3Ryb25nPiIsCiAgICAiYmZiaWFvdGlob3UiOiAiPC9zdHJvbmc+IiwKICAgICJiZmxpYW5qaWVxaWFuIjogImRhdGEtcGxheT1cIiIsCiAgICAiYmZsaWFuamllaG91IjogIlwiIGhyZWY9IiwKICAgICJiZnFpYW56aHVpIjogImh0dHA6Ly9wbGF5LnNwb3J0c3RlYW0yNjguY29tIiwKICAgICJiZmhvdXpodWlxaWFuIjogImRhdGEtdXJsaWQ9XCIiLAogICAgImJmaG91emh1aWhvdSI6ICJcIj48ZW0gY2xhc3M9In0=" 
         },
@@ -45,7 +45,7 @@
         {
             "key": "直播",
             "title": "电视直播",
-            "pic": "https://dl3.img.timecdn.cn/2022/12/01/Default.jpg"
+            "pic": "https://dl.img.timecdn.cn/2022/12/01/tv.jpg"
         },
         {
             "key": "自选网页",
