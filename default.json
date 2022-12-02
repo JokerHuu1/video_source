@@ -118,6 +118,10 @@
         {
             "name": "备解1",
             "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "name": "备解1",
+            "url": "https://jx.bozrc.com:4433/player/?url="
         }
     ],
     "dianshizhibo": "http://ht.grelighting.cn/html/zb.txt",
