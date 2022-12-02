@@ -28,13 +28,13 @@
             "pic": "https://dl3.img.timecdn.cn/2022/12/01/tv.jpg"
         },
         {
-            "key": "APP",
-            "title": "APP",
+            "key": "网页",
+            "title": "网页",
             "pic": "https://dl3.img.timecdn.cn/2022/12/01/Default.jpg"
         },
         {
-            "key": "网页",
-            "title": "网页",
+            "key": "APP",
+            "title": "APP",
             "pic": "https://dl3.img.timecdn.cn/2022/12/01/Default.jpg"
         },
         {
@@ -111,27 +111,27 @@
     "zhujiexi": [
         {
             "name": "主解1",
-            "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
+            "url": "https://k.json.icu/home/api?type=ys&uid=4274082&key=ajlrtuvwIJNOPQSX03&url="
         },
         {
             "name": "主解2",
-            "url": "https://hc.izny.cn/json.php?url="
+            "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
         },
         {
             "name": "主解3",
-            "url": "https://json.freejx.in/?url="
+            "url": "https://hc.izny.cn/json.php?url="
         },
         {
             "name": "主解4",
-            "url": "http://tgjx.itcker.com/api/?key=u7eWwiakUR1L6KS4sj&url="
+            "url": "https://json.freejx.in/?url="
         },
         {
             "name": "主解5",
-            "url": "https://apd-vlive-apdcdn-tc-qq.com.ytlngy.com/Token.php?url="
+            "url": "http://tgjx.itcker.com/api/?key=u7eWwiakUR1L6KS4sj&url="
         },
         {
             "name": "主解6",
-            "url": "https://k.json.icu/home/api?type=ys&uid=4274082&key=ajlrtuvwIJNOPQSX03&url="
+            "url": "https://apd-vlive-apdcdn-tc-qq.com.ytlngy.com/Token.php?url="
         },
         {
             "name": "主解7",
