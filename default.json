@@ -28,13 +28,13 @@
             "pic": "https://dl3.img.timecdn.cn/2022/12/01/tv.jpg"
         },
         {
-            "key": "网页",
-            "title": "网页",
+            "key": "APP",
+            "title": "APP",
             "pic": "https://dl3.img.timecdn.cn/2022/12/01/Default.jpg"
         },
         {
-            "key": "APP",
-            "title": "APP",
+            "key": "网页",
+            "title": "网页",
             "pic": "https://dl3.img.timecdn.cn/2022/12/01/Default.jpg"
         },
         {
@@ -111,11 +111,11 @@
     "zhujiexi": [
         {
             "name": "主解1",
-            "url": "https://k.json.icu/home/api?type=ys&uid=4274082&key=ajlrtuvwIJNOPQSX03&url="
+            "url": "https://okjx.cc/?url="
         },
         {
             "name": "主解2",
-            "url": "https://okjx.cc/?url="
+            "url": "https://k.json.icu/home/api?type=ys&uid=4274082&key=ajlrtuvwIJNOPQSX03&url="
         },
         {
             "name": "主解3",
