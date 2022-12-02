@@ -111,7 +111,7 @@
     "zhujiexi": [
         {
             "name": "主解1",
-            "url": "https://jx.jsonplayer.com/player/?url="
+            "url": "https://api.okjx.cc:3389/jx.php?url="
         },
         {
             "name": "主解2",
