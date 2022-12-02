@@ -121,7 +121,7 @@
         },
         {
             "name": "备解2",
-            "url": "https://api.okjx.cc:3389/jx.php?url="
+            "url": "https://jx.playerjy.com/?url="
         },
         {
             "name": "备解3",
@@ -129,7 +129,7 @@
         },
         {
             "name": "备解4",
-            "url": "https://jx.playerjy.com/?url="
+            "url": "https://api.okjx.cc:3389/jx.php?url="
         },
         {
             "name": "备解5",
@@ -145,7 +145,7 @@
             "url": "",
             "ua": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; MI 9 Build/LMY48Z)",
             "User": "空",
-            "fenlei": "热播推荐$http://api.kunyu77.com/api.php/provide/homeBlock?type_id=0pagenum=&#电视剧$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=2&pagenum=#电影$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=1&pagenum=#综艺$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=3&pagenum=#动漫$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=4&pagenum=",
+            "fenlei": "热播推荐$http://api.kunyu77.com/api.php/provide/homeBlock?type_id=0&pagenum=#电视剧$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=2&pagenum=#电影$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=1&pagenum=#综艺$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=3&pagenum=#动漫$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=4&pagenum=",
             "houzhui": "&pagesize=24",
             "shifouercijiequ": "0",
             "jiequqian": "空",
@@ -398,7 +398,7 @@
             "User": "空",
             "嗅探词": "m3u8?#.m3u8#.mp4",
             "过滤词": "51.la#cnzz.com#baidu.com#1080kkk.com#?url=",
-            "fenlei": "电影$/dy/1/page/#电视剧$/dy/2/page/#综艺$/dy/3/page/#动漫$/dy/4/page/#国产剧$/ys/13-----------/page/#韩剧$/ys/24-----------/page/#日剧$/ys/22-----------/page/#美剧$/ys/16-----------/page/#港剧$/ys/14-----------/page/#台剧$/ys/15-----------/page/#海外剧$/ys/23-----------/page/#动作片$/ys/6-----------/page/#喜剧片$/ys/7-----------/page/#爱情片$/ys/8-----------/page/#科幻片$/ys/9-----------/page/#恐怖片$/ys/10-----------/page/犯罪片$/ys/11-----------/page/#战争片$/ys/12-----------/page/#剧情片$/ys/21-----------/page/#记录片$/ys/29-----------/page/动画电影$/ys/20-----------/page/#国产动漫$/ys/25-----------/page/#日本动漫$/ys/26-----------/page/#欧美动漫$/ys/27-----------/page/",
+            "fenlei": "电影$/dy/1--hits---------/page/#电视剧$/dy/2--hits---------/page/#综艺$/dy/3/page/#动漫$/dy/4/page/#国产剧$/ys/13-----------/page/#韩剧$/ys/24-----------/page/#日剧$/ys/22-----------/page/#美剧$/ys/16-----------/page/#港剧$/ys/14-----------/page/#台剧$/ys/15-----------/page/#海外剧$/ys/23-----------/page/#动作片$/ys/6-----------/page/#喜剧片$/ys/7-----------/page/#爱情片$/ys/8-----------/page/#科幻片$/ys/9-----------/page/#恐怖片$/ys/10-----------/page/犯罪片$/ys/11-----------/page/#战争片$/ys/12-----------/page/#剧情片$/ys/21-----------/page/#记录片$/ys/29-----------/page/动画电影$/ys/20-----------/page/#国产动漫$/ys/25-----------/page/#日本动漫$/ys/26-----------/page/#欧美动漫$/ys/27-----------/page/",
             "houzhui": ".html",
             "shifouercijiequ": "0",
             "jiequqian": "空",
