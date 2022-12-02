@@ -115,50 +115,54 @@
         },
         {
             "name": "主解2",
-            "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
+            "url": "https://okjx.cc/?url="
         },
         {
             "name": "主解3",
-            "url": "https://hc.izny.cn/json.php?url="
+            "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
         },
         {
             "name": "主解4",
-            "url": "https://json.freejx.in/?url="
+            "url": "https://hc.izny.cn/json.php?url="
         },
         {
             "name": "主解5",
-            "url": "http://tgjx.itcker.com/api/?key=u7eWwiakUR1L6KS4sj&url="
+            "url": "https://json.freejx.in/?url="
         },
         {
             "name": "主解6",
-            "url": "https://apd-vlive-apdcdn-tc-qq.com.ytlngy.com/Token.php?url="
+            "url": "http://tgjx.itcker.com/api/?key=u7eWwiakUR1L6KS4sj&url="
         },
         {
             "name": "主解7",
-            "url": "http://110.42.2.115:880/analysis/json/?uid=2284&my=efghjmxzADEFIS0268&url="
+            "url": "https://apd-vlive-apdcdn-tc-qq.com.ytlngy.com/Token.php?url="
         },
         {
             "name": "主解8",
-            "url": "http://119.91.206.244:9999/jx/hfys.php?url="
+            "url": "http://110.42.2.115:880/analysis/json/?uid=2284&my=efghjmxzADEFIS0268&url="
         },
         {
             "name": "主解9",
-            "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
+            "url": "http://119.91.206.244:9999/jx/hfys.php?url="
         },
         {
             "name": "主解10",
-            "url": "http://45.253.64.126:7879/qpjxzy/TV/qpyzzyjxtv.php?url="
+            "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
         },
         {
             "name": "主解11",
-            "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
+            "url": "http://45.253.64.126:7879/qpjxzy/TV/qpyzzyjxtv.php?url="
         },
         {
             "name": "主解12",
-            "url": "http://api.ckflv.cn/?url="
+            "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="
         },
         {
             "name": "主解13",
+            "url": "http://api.ckflv.cn/?url="
+        },
+        {
+            "name": "主解14",
             "url": "https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="
         }
     ],
