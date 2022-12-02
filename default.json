@@ -112,40 +112,12 @@
         {
             "name": "主解1",
             "url": "https://k.json.icu/home/api?type=ys&uid=4274082&key=ajlrtuvwIJNOPQSX03&url="
-        },
-        {
-            "name": "主解2--需要ip授权",
-            "url": "https://json.freejx.in/?url="
-        },
-        {
-            "name": "主解3-uid和密钥不匹配",
-            "url": "http://110.42.2.115:880/analysis/json/?uid=2284&my=efghjmxzADEFIS0268&url="
         }
     ],
     "beiyongjiexi": [
         {
             "name": "备解1",
             "url": "https://jx.jsonplayer.com/player/?url="
-        },
-        {
-            "name": "备解1",
-            "url": "https://yparse.jn1.cc/index.php?url="
-        },
-        {
-            "name": "备解1",
-            "url": "https://im1907.top/?jx="
-        },
-        {
-            "name": "备解2",
-            "url": "https://okjx.cc/?url="
-        },
-        {
-            "name": "备解3",
-            "url": "https://jx.xmflv.com/?url="
-        },
-        {
-            "name": "备解4",
-            "url": "https://www.pangujiexi.com/pangu/?url="
         }
     ],
     "dianshizhibo": "http://ht.grelighting.cn/html/zb.txt",
