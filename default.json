@@ -111,31 +111,31 @@
     "zhujiexi": [
         {
             "name": "主解1",
-            "url": "https://api.okjx.cc:3389/jx.php?url="
-        },
-        {
-            "name": "主解2",
             "url": "https://k.json.icu/home/api?type=ys&uid=4274082&key=ajlrtuvwIJNOPQSX03&url="
         },
         {
-            "name": "主解3",
+            "name": "主解2",
             "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
         },
         {
-            "name": "主解4",
+            "name": "主解3",
             "url": "https://hc.izny.cn/json.php?url="
         },
         {
-            "name": "主解5",
+            "name": "主解4",
             "url": "https://json.freejx.in/?url="
         },
         {
-            "name": "主解6",
+            "name": "主解5",
             "url": "http://tgjx.itcker.com/api/?key=u7eWwiakUR1L6KS4sj&url="
         },
         {
-            "name": "主解7",
+            "name": "主解6",
             "url": "https://apd-vlive-apdcdn-tc-qq.com.ytlngy.com/Token.php?url="
+        },
+        {
+            "name": "主解7",
+            "url": "https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="
         },
         {
             "name": "主解8",
@@ -160,31 +160,31 @@
         {
             "name": "主解13",
             "url": "http://api.ckflv.cn/?url="
-        },
-        {
-            "name": "主解14",
-            "url": "https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="
         }
     ],
     "beiyongjiexi": [
         {
             "name": "备解1",
-            "url": "https://okjx.cc/?url="
-        },
-        {
-            "name": "备解2",
             "url": "https://jx.jsonplayer.com/player/?url="
         },
         {
+            "name": "备解2",
+            "url": "https://api.okjx.cc:3389/jx.php?url="
+        },
+        {
             "name": "备解3",
-            "url": "https://jx.iztyy.com/svip/?url="
+            "url": "https://okjx.cc/?url="
         },
         {
             "name": "备解4",
-            "url": "https://jx.xmflv.com/?url="
+            "url": "https://jx.iztyy.com/svip/?url="
         },
         {
             "name": "备解5",
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "备解6",
             "url": "https://www.pangujiexi.com/pangu/?url="
         }
     ],
