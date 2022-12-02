@@ -121,7 +121,19 @@
         },
         {
             "name": "备解2",
-            "url": "https://jx.jsonplayer.com/player/?url="
+            "url": "https://api.okjx.cc:3389/jx.php?url="
+        },
+        {
+            "name": "备解3",
+            "url": "https://www.ckmov.com/?url="
+        },
+        {
+            "name": "备解4",
+            "url": "https://jx.playerjy.com/?url="
+        },
+        {
+            "name": "备解5",
+            "url": "https://jx.xmflv.com/?url="
         }
     ],
     "dianshizhibo": "http://ht.grelighting.cn/html/zb.txt",
