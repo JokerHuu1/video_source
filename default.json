@@ -29,17 +29,17 @@
         },
         {
             "key": "网页",
-            "title": "网页",
+            "title": "视频网页",
             "pic": "https://dl3.img.timecdn.cn/2022/12/01/Default.jpg"
         },
         {
             "key": "采集",
-            "title": "采集",
+            "title": "API采集",
             "pic": "https://dl3.img.timecdn.cn/2022/12/01/Default.jpg"
         },
         {
             "key": "APP",
-            "title": "APP",
+            "title": "APP资源",
             "pic": "https://dl3.img.timecdn.cn/2022/12/01/Default.jpg"
         },
         {
@@ -86,7 +86,7 @@
     ],
     "zhuyejiekou": [
         {
-            "name": "cs",
+            "name": "爱优腾资源",
             "url": "http://app.mengdandan.com/xgapp.php/v1/"
         }
     ],
@@ -114,28 +114,28 @@
             "url": "https://jx.bozrc.com:4433/player/?url="
         },
         {
-            "name": "备解2",
-            "url": "https://jx.playerjy.com/?url="
+            "name": "备解5",
+            "url": "https://jx.xmflv.com/?url="
         },
         {
             "name": "备解3",
             "url": "https://jx.jsonplayer.com/player/?url="
         },
         {
-            "name": "备解4",
-            "url": "https://www.ckmov.com/?url="
-        },
-        {
-            "name": "备解5",
-            "url": "https://jx.xmflv.com/?url="
+            "name": "备解7",
+            "url": "https://okjx.cc/?url="
         },
         {
             "name": "备解6",
             "url": "https://jx.iztyy.com/svip/?url="
         },
         {
-            "name": "备解7",
-            "url": "https://okjx.cc/?url="
+            "name": "备解4",
+            "url": "https://www.ckmov.com/?url="
+        },
+        {
+            "name": "备解2",
+            "url": "https://jx.playerjy.com/?url="
         },
         {
             "name": "备解8",
@@ -230,7 +230,7 @@
         },
         {
             "name": "饭团影视",
-            "url": "https://www.fantuanhd.com",
+            "url": "https://www.fantuan3.com",
             "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
             "User": "User-Agent$123",
             "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
@@ -252,7 +252,7 @@
             "fubiaotihou": "</span>",
             "lianjieqian": "href=\"/play/",
             "lianjiehou": "-1-1.html\"",
-            "ljqianzhui": "https://www.fantuanhd.com/detail/",
+            "ljqianzhui": "https://www.fantuan3.com/detail/",
             "ljhouzhui": ".html",
             "ssmoshi": "0",
             "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
