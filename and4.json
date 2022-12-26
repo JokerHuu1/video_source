@@ -17,9 +17,9 @@
             "pic": "http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg"
         },
         {
-            "key": "APP",
-            "title": "APP资源",
-            "pic": "https://raw.iqiq.io/JokerHuu1/video_source/main/pic/default/Default.jpg"
+            "key": "采集",
+            "title": "API采集",
+            "pic": "https://raw.iqiq.io/JokerHuu1/video_source/main/pic/default/221627-1475590587ba17.jpg"
         },
         {
             "key": "收藏",
@@ -37,9 +37,9 @@
             "pic": "https://raw.iqiq.io/JokerHuu1/video_source/main/pic/default/DLNA.jpg"
         },
         {
-            "key": "采集",
-            "title": "API采集",
-            "pic": "https://raw.iqiq.io/JokerHuu1/video_source/main/pic/default/221627-1475590587ba17.jpg"
+            "key": "APP",
+            "title": "APP资源",
+            "pic": "https://raw.iqiq.io/JokerHuu1/video_source/main/pic/default/Default.jpg"
         },
         {
             "key": "自选网页",
