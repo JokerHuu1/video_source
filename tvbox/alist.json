@@ -6,7 +6,11 @@
         },
         {
             "name": "小熊",
-            "server": "https://alist.kannaya.repl.co"
+            "server": "https://ali.asterecho.repl.co/"
+        },
+        {
+            "name": "kannaya",
+            "server": "https://alist.kannaya.repl.co/"
         },
         {
             "name": "杜比",
