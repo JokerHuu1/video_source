@@ -15,33 +15,21 @@
         }
     },
     {
-        "name": "触光",
-        "server": "https://pan.ichuguang.com/",
-        "startPage": "/",
-        "showAll": false,
-        "search": true,
-        "params": {
-            "/abc": {
-                "password": "123"
-            },
-            "/abc/abc": {
-                "password": "123"
-            }
-        }
-    },
-    {
         "name": "杜比",
         "server": "https://dubi.tk/",
         "startPage": "/",
         "showAll": false,
-        "search": true,
-        "params": {
-            "/abc": {
-                "password": "123"
-            },
-            "/abc/abc": {
-                "password": "123"
-            }
+        "search": false,
+        "params": {}
+        }
+    },
+    {
+        "name": "触光",
+        "server": "https://pan.ichuguang.com/",
+        "startPage": "/",
+        "showAll": false,
+        "search": false,
+        "params": {}
         }
     },
     {
@@ -49,14 +37,8 @@
         "server": "https://pan.mdgd.cc/",
         "startPage": "/",
         "showAll": false,
-        "search": true,
-        "params": {
-            "/abc": {
-                "password": "123"
-            },
-            "/abc/abc": {
-                "password": "123"
-            }
+        "search": false,
+        "params": {}
         }
     }
 ]
