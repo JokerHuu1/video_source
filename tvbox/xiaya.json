@@ -2,7 +2,22 @@
     {
         "name": "小雅",
         "server": "http://alist.xiaoya.pro/",
-        "startPage": "/",
+        "startPage": "/电视剧",
+        "showAll": false,
+        "search": true,
+        "params": {
+            "/abc": {
+                "password": "123"
+            },
+            "/abc/abc": {
+                "password": "123"
+            }
+        }
+    },
+        {
+        "name": "小雅",
+        "server": "http://alist.xiaoya.pro/",
+        "startPage": "/电影",
         "showAll": false,
         "search": true,
         "params": {
