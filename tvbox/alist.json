@@ -20,7 +20,14 @@
         "startPage": "/",
         "showAll": false,
         "search": false,
-        "params": ""
+        "params": {
+            "/abc": {
+                "password": "123"
+            },
+            "/abc/abc": {
+                "password": "123"
+            }
+        }
     },
     {
         "name": "触光",
@@ -28,7 +35,14 @@
         "startPage": "/",
         "showAll": false,
         "search": false,
-        "params": ""
+        "params": {
+            "/abc": {
+                "password": "123"
+            },
+            "/abc/abc": {
+                "password": "123"
+            }
+        }
     },
     {
         "name": "目瞪狗呆",
@@ -36,6 +50,13 @@
         "startPage": "/",
         "showAll": false,
         "search": false,
-        "params": ""
+        "params": {
+            "/abc": {
+                "password": "123"
+            },
+            "/abc/abc": {
+                "password": "123"
+            }
+        }
     }
 ]
