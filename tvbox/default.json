@@ -1,6 +1,16 @@
 {
   "sites": [
-    {"key":"IKan","name":"爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
+    {
+      "key": "py_douban.py",
+      "name": "豆瓣推荐(py)",
+      "type": 3,
+      "api": "py_douban.py",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.iqiq.io/wsl201/box/main/py/py_douban.py"
+      },
+      {"key":"IKan","name":"爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
     {"key":"Kuaikan","name":"快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
     {"key":"LiteApple","name":"苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
     {"key":"py_czspp","name":"🔥厂长影视","type": 3,"api":"py_czspp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_czspp.py"},
@@ -23,14 +33,14 @@
       "playerType": 2,
       "quickSearch": 1,
       "searchable": 1,
+      "jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961",
       "categories": [
         "哔哩哔哩",
         "虎牙",
         "斗鱼",
         "网易CC",
         "推荐"
-      ],
-      "jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"
+      ]
       },
     
     {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
