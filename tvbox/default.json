@@ -12,9 +12,9 @@
 
 
     {"key":"py_cyys","name":"🍀视频 | 创艺","type":3,"api":"py_cyys","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cyys.py"},
-    {"key":"csp_Nmys","name":"🍀视频 | 农民","type":3,"api":"csp_Nmys","searchable":"1","quickSearch":1,"filterable":1,"ext":"https://神器每日推送.tk/json/nmys.json"},
     {"key":"Pang","name":"🍀视频 | 胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
     {"key":"Kuaikan","name":"🍀视频 | 快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
+    {"key":"csp_Nmys","name":"🍀视频 | 农民","type":3,"api":"csp_Nmys","searchable":"1","quickSearch":1,"filterable":1,"ext":"https://神器每日推送.tk/json/nmys.json"},
  
 
 
@@ -44,21 +44,14 @@
   "parses":[
     {"name":"Json聚合","type":3,"url":"Demo"},
     {"name":"Web聚合","type":3,"url":"Web"},
-    {"name":"全部","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
-    {"name": "自","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/20230117?url=","header": {"User-Agent": "Mozilla/5.0"}},
-    {"name":"来","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-    {"name":"网络","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
-    {"name":"💋So丶","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="},
-    {"name":"大家","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
-    {"name":"随便","type":0,"url":"https://h5.freejson.xyz/player/?url="},
-    {"name":"弄","type":1,"url":"rxjx.kuanjv.com/allm3u8.php?url="},
-    {"name":"不要","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
-    {"name":"客气","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-    {"name":"坏了","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-    {"name":"我再","type":1,"url":"https://hc.izny.cn/json.php?url="},
-    {"name":"去找","type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
-    {"name":"来","type":1,"url":"https://www.nxflv.com/?url=","header":{"User-Agent":"Mozilla/5.0"}},
-    {"name":"野","type":1,"url":"http://3.37.195.161:54371/parse/api/无名.js?url=","header":{"User-Agent":"Mozilla/5.0"}}
+    {"name":"01","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+    {"name":"02","type":0,"url":"https://jx.xmflv.com/?url="},
+    {"name":"03","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+    {"name":"04","type":0,"url":"https://okjx.cc/?url="},
+    {"name":"05","type":0,"url":"https://jx.iztyy.com/svip/?url="},
+    {"name":"06","type":0,"url":"https://www.ckmov.com/?url="},
+    {"name":"07","type":0,"url":"https://jx.playerjy.com/?url="},
+    {"name":"08","type":0,"url":"https://www.pangujiexi.com/pangu/?url="}
     ],
 
 
