@@ -2,15 +2,23 @@
     "drives": [
         {
             "name": "小雅",
-            "server": "http://alist.xiaoya.pro"
+            "server": "http://alist.xiaoya.pro/%E7%94%B5%E8%A7%86%E5%89%A7/"
         },
         {
             "name": "小熊",
-            "server": "https://ali.asterecho.repl.co/"
+            "server": "http://ali.asterecho.repl.co"
         },
         {
             "name": "kannaya",
-            "server": "https://alist.kannaya.repl.co/"
+            "server": "http://alist.kannaya.repl.co"
+        },
+        {
+            "name": "目瞪狗呆",
+            "server": "https://pan.mdgd.cc"
+        },
+        {
+            "name": "澪のcloud",
+            "server": "https://cloud.linguistic.icu"
         },
         {
             "name": "杜比",
