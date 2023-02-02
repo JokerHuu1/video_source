@@ -2,7 +2,7 @@
     "drives": [
         {
             "name": "小雅",
-            "server": "http://alist.xiaoya.pro/%E7%94%B5%E8%A7%86%E5%89%A7/"
+            "server": "http://alist.xiaoya.pro
         },
         {
             "name": "小熊",
@@ -24,9 +24,6 @@
             "name": "杜比",
             "server": "https://dubi.tk"
         },
-        {
-            "name": "觸光",
-            "server": "https://pan.ichuguang.com"
-        }
+
     ]
 }
