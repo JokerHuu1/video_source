@@ -14,8 +14,8 @@
     {"key":"py_cyys","name":"🍀视频 | 创艺","type":3,"api":"py_cyys","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cyys.py"},
     {"key":"Pang","name":"🍀视频 | 胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
     {"key":"Kuaikan","name":"🍀视频 | 快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
-    {"key": "csp_xpNmys","name": "🍀视频 | 农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json"},
-
+    {"key": "csp_xpNmys","name": "🍀视频 | 农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
+    {"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.饭太硬.ga/x/json/nmys.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;4bd2275690262e2b338920201a674539"},
 
     {"key":"Alist","name":"🔍网盘 | AList","type":3,"api":"http://101.34.67.237/libs/alist.min.js","searchable":"1","quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/alist.json"},
     {"key":"Gitcafe","name":"🔍网盘 | 纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
