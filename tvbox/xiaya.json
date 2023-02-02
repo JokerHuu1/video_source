@@ -44,4 +44,19 @@
             }
         }
     },
+                {
+        "name": "澪のcloud",
+        "server": "https://cloud.linguistic.icu/",
+        "startPage": "/",
+        "showAll": false,
+        "search": true,
+        "params": {
+            "/abc": {
+                "password": "123"
+            },
+            "/abc/abc": {
+                "password": "123"
+            }
+        }
+    }
 ]
