@@ -19,44 +19,20 @@
         "server": "https://dubi.tk/",
         "startPage": "/",
         "showAll": false,
-        "search": false,
-        "params": {
-            "/abc": {
-                "password": "123"
-            },
-            "/abc/abc": {
-                "password": "123"
-            }
-        }
+        "search": false
     },
     {
         "name": "触光",
         "server": "https://pan.ichuguang.com/",
         "startPage": "/",
         "showAll": false,
-        "search": false,
-        "params": {
-            "/abc": {
-                "password": "123"
-            },
-            "/abc/abc": {
-                "password": "123"
-            }
-        }
+        "search": false
     },
     {
         "name": "目瞪狗呆",
         "server": "https://pan.mdgd.cc/",
         "startPage": "/",
         "showAll": false,
-        "search": false,
-        "params": {
-            "/abc": {
-                "password": "123"
-            },
-            "/abc/abc": {
-                "password": "123"
-            }
-        }
+        "search": false
     }
 ]
