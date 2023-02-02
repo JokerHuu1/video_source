@@ -1,11 +1,11 @@
 {
 "author": "",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"homeUrl": "http://www.jrskan.com/",
+"ua": "Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
+"homeUrl": "http://m.jrskan.com/",
 "cateManual": {
 "JRS赛事直播": "666"
 },
-"cateUrl": "http://www.jrskan.com/",
+"cateUrl": "http://m.jrskan.com/",
 "cateVodNode": "//ul[@data-stype='zqlq']",
 "cateVodName": "concat(/li[@class='lab_time']/text(),'-',/li[@class='lab_events']/span/text(),'dj')",
 "cateVodId": "/li[@class='lab_channel']/a[1]/@href",
@@ -13,7 +13,7 @@
 "cateVodImg": "/li[@class='lab_team_home']/span/img/@src",
 "cateVodMark": "concat(//li[@class='lab_team_home']/strong/text(),'-',//li[@class='lab_team_away']/strong/text())",
 "cate": "dj",
-"dtUrl": "http://play.sportsteam268.com/play/steam{vid}.html",
+"dtUrl": "http://play.sportsteam357.com/play/steam{vid}.html",
 "dtNode": "//ul[@data-stype='zqlq']",
 "dtName": "/li[1]/span/text()",
 "dtImg": "/li[3]/span/img/@src",
@@ -32,5 +32,5 @@
 "dtUrlIdR": "/play/(\\S+)",
 "dtUrlName": "/strong/text()",
 "dtUrlNameR": "",
-"playUrl": "http://play.sportsteam268.com/play/{playUrl}"
+"playUrl": "http://play.sportsteam357.com/play/{playUrl}"
 }
