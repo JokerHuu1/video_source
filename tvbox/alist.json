@@ -20,7 +20,6 @@
         "startPage": "/",
         "showAll": false,
         "search": false,
-        "params": {}
     },
     {
         "name": "触光",
@@ -28,7 +27,6 @@
         "startPage": "/",
         "showAll": false,
         "search": false,
-        "params": {}
     },
     {
         "name": "目瞪狗呆",
@@ -36,6 +34,5 @@
         "startPage": "/",
         "showAll": false,
         "search": false,
-        "params": {}
     }
 ]
