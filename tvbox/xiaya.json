@@ -1,8 +1,8 @@
 [
     {
-        "name": "小雅",
-        "server": "http://alist.xiaoya.pro/",
-        "startPage": "/电视剧",
+        "name": "小雅|电视剧",
+        "server": "http://alist.xiaoya.pro",
+        "startPage": "/%E7%94%B5%E8%A7%86%E5%89%A7/",
         "showAll": false,
         "search": true,
         "params": {
@@ -15,9 +15,9 @@
         }
     },
         {
-        "name": "小雅",
-        "server": "http://alist.xiaoya.pro/",
-        "startPage": "/电影",
+        "name": "小雅|电影",
+        "server": "http://alist.xiaoya.pro",
+        "startPage": "/%E7%94%B5%E5%BD%B1/",
         "showAll": false,
         "search": true,
         "params": {
