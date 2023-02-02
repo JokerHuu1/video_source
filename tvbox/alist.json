@@ -19,20 +19,23 @@
         "server": "https://dubi.tk/",
         "startPage": "/",
         "showAll": false,
-        "search": false
+        "search": false,
+        "params": ""
     },
     {
         "name": "触光",
         "server": "https://pan.ichuguang.com/",
         "startPage": "/",
         "showAll": false,
-        "search": false
+        "search": false,
+        "params": ""
     },
     {
         "name": "目瞪狗呆",
         "server": "https://pan.mdgd.cc/",
         "startPage": "/",
         "showAll": false,
-        "search": false
+        "search": false,
+        "params": ""
     }
 ]
