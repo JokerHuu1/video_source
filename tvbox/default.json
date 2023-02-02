@@ -11,6 +11,7 @@
     {"key":"Ddys","name":"低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
     {"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
     {"key":"AList","name":"网盘 | AList","type":"3","api":"csp_AList","searchable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/alist.json"},
+    {"key":"csp_Alist2","name":"🅿小丫 ┃ 网盘","type":3,"api":"https://ftyyy.tk/JS/lib/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://101.34.67.237/txt/json/alist.json"},
     {"key":"Gitcafe","name":"网盘 | 纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
     {"key":"Upso","name":"网盘 | 云搜","type":"3","api":"csp_UpYun","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
     {"key":"盤搜","name":"网盘 | 盘搜","type": 3,"api":"csp_PanSou","searchable": 1,"filterable": 0,"switchable": 0,"ext":"http://我不是.肥猫.love:63/token.php","jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;4971e3aee0e802323001771e44bb1a87"},
