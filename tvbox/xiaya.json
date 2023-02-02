@@ -28,5 +28,20 @@
                 "password": "123"
             }
         }
-    }
+    },
+            {
+        "name": "小雅|每日更新",
+        "server": "http://alist.xiaoya.pro/",
+        "startPage": "/每日更新",
+        "showAll": false,
+        "search": true,
+        "params": {
+            "/abc": {
+                "password": "123"
+            },
+            "/abc/abc": {
+                "password": "123"
+            }
+        }
+    },
 ]
