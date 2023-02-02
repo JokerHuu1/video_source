@@ -30,8 +30,23 @@
         }
     },
     {
-        "name": "roko89",
-        "server": "https://ali.roko89.repl.co/",
+        "name": "杜比",
+        "server": "https://dubi.tk/",
+        "startPage": "/",
+        "showAll": false,
+        "search": true,
+        "params": {
+            "/abc": {
+                "password": "123"
+            },
+            "/abc/abc": {
+                "password": "123"
+            }
+        }
+    },
+    {
+        "name": "目瞪狗呆",
+        "server": "https://pan.mdgd.cc/",
         "startPage": "/",
         "showAll": false,
         "search": true,
