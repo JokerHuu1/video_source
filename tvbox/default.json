@@ -2,7 +2,6 @@
   "sites": [
     {"key":"js豆瓣","name":"🅱豆瓣 | 推荐","type":3,"api":"https://ftyyy.tk/JS/lib/drpy.min.js","searchable": 0,"quickSearch": 0,"filterable":"1","ext":"http://ftyyy.tk/JS/js/drpy.js"},
     {"key":"IKan","name":"⭐视频 | 爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
-    {"key":"Kuaikan","name":"⭐视频 | 快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
     {"key":"LiteApple","name":"⭐视频 | 苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
     {"key": "Lezhu_spider","name": "⭐视频 | 乐猪","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
 
@@ -15,6 +14,8 @@
     {"key":"py_cyys","name":"🍀视频 | 创艺","type": 3,"api":"py_cyys","searchable": 1,"quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cyys.py"},
     {"key":"csp_Nmys","name":"🍀农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://神器每日推送.tk/json/nmys.json"},
     {"key":"Pang","name":"🍀视频 | 胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
+    {"key":"Kuaikan","name":"🍀视频 | 快看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
+ 
 
 
     {"key":"Alist","name":"🔍网盘 | AList","type":3,"api":"http://101.34.67.237/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/alist.json"},
@@ -32,24 +33,66 @@
     {"key":"py_cctv","name":"📦合集 | CCTV","type": 3,"api":"py_cctv","searchable": 1,"quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cctv.py"},
     
 
-    {"key":"Tian","name":"视频 | 天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
-    {"key":"Dm84","name":"视频 | 动漫","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"572192a9fe2136041a58e7219a46fb2b"},
-    {"key":"AppTT","name":"视频 | 图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
-    {"key":"Smdyy","name":"视频 | 神马","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"16705ee9f4764be8499806f52d4bf1e7"},
-    {"key":"Kunyu77","name":"视频 | 七七","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
-    {"key":"Auete","name":"视频 | 奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
-    {"key":"Cokemv","name":"视频 | 可乐","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70"},
-    {"key":"Dy555","name":"视频 | 555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
-    {"key":"SP360","name":"视频 | SP360","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f"},
-    {"key":"Lgyy","name":"视频 | 蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1"}
+    {"key":"Dy555","name":"⚪视频 | 555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
+    {"key":"AppTT","name":"⚪视频 | 图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
+    {"key":"Kunyu77","name":"⚪视频 | 七七","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"}
+
   ],
 
   "lives": [{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=http://ht.grelighting.cn/html/zb.txt"]}]}],
 
-  "parses": [
-    {"name":"万年魂环解析","type":1,"url":"https://jiexi.parses.repl.co/api.php?url="}
-    ],
+  "parses": [{
+		"name": "默认选项",
+		"type": 3,
+		"url": "Demo"
+	}, {
+		"name": "01",
+		"type": 1,
+		"url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
+		"ext": {
+			"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905"],
+			"header": {
+				"User-Agent": "Dart/2.14 (dart:io)"
+			}
+		}
+	}, {
+		"name": "网络搜集02",
+		"type": 1,
+		"url": "https://json.pangujiexi.com/json.php?url=",
+		"ext": {
+			"flag": ["youku", "优酷", "qq", "腾讯", "qiyi", "爱奇艺", "奇艺"]
+		}
+	}, {
+		"name": "网络搜集03",
+		"type": 1,
+		"url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
+		"ext": {
+			"flag": ["Itnb", "wuduzy"]
+		}
+	}, {
+		"name": "网络搜集04",
+		"type": 1,
+		"url": "http://api.vip123kan.vip/?url=",
+		"ext": {
+			"flag": ["youku", "优酷", "mgtv", "芒果", "qq", "腾讯", "qiyi", "爱奇艺", "qq", "xigua", "奇艺"]
+		}
+	},{
+		"name": "网络搜集07",
+		"type": 1,
+		"url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
+		"ext": {
+			"flag": ["ltnb"]
+		}
+	},{
+		"name": "网络搜集10",
+		"type": 1,
+		"url": "https://json.5lp.net/json.php?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "renrenmi", "Itnb"]
+		}
+	}],
 
+  
   "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","csm3u8"],
 
   "ijk": [
