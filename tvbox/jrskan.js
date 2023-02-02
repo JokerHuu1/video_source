@@ -1,37 +1,36 @@
-// 道长 drpy仓库 https://gitcode.net/qq_32394351/dr_py
-// 道长 drpy安卓本地搭建说明 https://gitcode.net/qq_32394351/dr_py/-/blob/master/%E5%AE%89%E5%8D%93%E6%9C%AC%E5%9C%B0%E6%90%AD%E5%BB%BA%E8%AF%B4%E6%98%8E.md
-// 道长 drpy写源 模板规则说明 https://gitcode.net/supertlo/dr_py#%E6%A8%A1%E6%9D%BF%E8%A7%84%E5%88%99%E8%AF%B4%E6%98%8E
-// 道长 drpy写源 套模模版 https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/%E6%A8%A1%E6%9D%BF.js
-// 道长 drpy写源 影片教程 http://101.34.67.237:5244/%E6%95%99%E8%82%B2/drpy
-// 道长 drpy写源 影片教程(m3u8切片) https://freedrpy.run.goorm.io/txt/jc/playlist.m3u8
-// 海阔下载 https://haikuo.lanzoui.com/u/GoldRiver
-// Pluto Player官方TG https://t.me/PlutoPlayer
-// Pluto Player官方TG https://t.me/PlutoPlayerChannel
-
-
-var rule = {
-    title:'JRKAN直播',
-    host:'http://m.jrskan.com/',
-	// JRKAN备用域名:m.jrskan8.com / m.jrkan666.com / jryyds.com / jrsbxj.com
-	// JRKAN网址发布:qiumi1314.com
-    url:'/fyclass',
-    searchUrl:'',
-    searchable:0,
-    quickSearch:0,
-    class_name:'全部',
-    class_url:'/',
-    //class_url:'?live',
-    headers:{
-        'User-Agent':'MOBILE_UA'
-    },
-    timeout:5000,
-    play_parse:true,
-    lazy:'',
-    limit:6,
-    double:false,
-    推荐:'*',
-    // 一级播放线路x3 可自行切换
-    一级:'.loc_match:eq(2) ul;li:gt(1):lt(4)&&Text;img&&src;li:lt(2)&&Text;a:eq(1)&&href',//play.sportsteam357.com
-    二级:{title:'.sub_list li:lt(2)&&Text;.sub_list li:eq(0)&&Text',img:'img&&src',desc:';;;.lab_team_home&&Text;.lab_team_away&&Text',content:'.sub_list ul&&Text',tabs:'',tab_text:'',lists:'.sub_channel a',list_text:'a&&Text',list_url:'a&&data-play'},
-    搜索:'',
+{
+"author": "",
+"ua": "Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
+"homeUrl": "http://m.jrskan.com/",
+"cateManual": {
+"JRS赛事直播": "666"
+},
+"cateUrl": "http://m.jrskan.com/",
+"cateVodNode": "//ul[@data-stype='zqlq']",
+"cateVodName": "concat(/li[@class='lab_time']/text(),'-',/li[@class='lab_events']/span/text(),'dj')",
+"cateVodId": "/li[@class='lab_channel']/a[1]/@href",
+"cateVodIdR": "http://play.sportsteam357.com/play/steam(\\d+).html",
+"cateVodImg": "/li[@class='lab_team_home']/span/img/@src",
+"cateVodMark": "concat(//li[@class='lab_team_home']/strong/text(),'-',//li[@class='lab_team_away']/strong/text())",
+"cate": "dj",
+"dtUrl": "http://play.sportsteam357.com/play/steam{vid}.html",
+"dtNode": "//ul[@data-stype='zqlq']",
+"dtName": "/li[1]/span/text()",
+"dtImg": "/li[3]/span/img/@src",
+"dtCate": "/li[1]/span/text()",
+"dtActor": "/li[1]/span/text()",
+"dtDirector": "concat('勇士总冠军')",
+"dtDirectorR": "",
+"dtDesc": "concat(/li[3]/strong/text(),' VS ',/li[5]/strong/text())",
+"dtFromNode": "//div[@class='sub_channel']",
+"dtFromName": "concat('【推荐优先选择中文超清或中文高清直播源观看】')",
+"dtFromNameR": "",
+"dtUrlNode": "//div[@class='sub_channel']",
+"dtUrlSubNode": "/a",
+"dtUrlSub": "/ff",
+"dtUrlId": "@data-play",
+"dtUrlIdR": "/play/(\\S+)",
+"dtUrlName": "/strong/text()",
+"dtUrlNameR": "",
+"playUrl": "http://play.sportsteam357.com/play/{playUrl}"
 }
