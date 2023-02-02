@@ -5,12 +5,8 @@
             "server": "http://alist.xiaoya.pro"
         },
         {
-            "name": "小熊",
-            "server": "http://ali.asterecho.repl.co"
-        },
-        {
-            "name": "kannaya",
-            "server": "http://alist.kannaya.repl.co"
+            "name": "reko98",
+            "server": "https://ali.roko89.repl.co"
         },
         {
             "name": "目瞪狗呆",
@@ -23,6 +19,10 @@
         {
             "name": "杜比",
             "server": "https://dubi.tk"
+        },
+        {
+            "name": "触光",
+            "server": "https://pan.ichuguang.com"
         }
     ]
 }
