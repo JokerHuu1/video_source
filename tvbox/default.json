@@ -23,6 +23,13 @@
       "playerType": 2,
       "quickSearch": 1,
       "searchable": 1,
+      "categories": [
+        "哔哩哔哩",
+        "虎牙",
+        "斗鱼",
+        "网易CC",
+        "推荐"
+      ],
       "jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"
       },
     
