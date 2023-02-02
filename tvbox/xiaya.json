@@ -1,8 +1,8 @@
 [
     {
-        "name": "小雅|电视剧",
+        "name": "小雅",
         "server": "http://alist.xiaoya.pro/",
-        "startPage": "/电视剧",
+        "startPage": "/",
         "showAll": false,
         "search": true,
         "params": {
@@ -14,10 +14,10 @@
             }
         }
     },
-        {
-        "name": "小雅|电影",
-        "server": "http://alist.xiaoya.pro/",
-        "startPage": "/电影",
+    {
+        "name": "触光",
+        "server": "https://pan.ichuguang.com/",
+        "startPage": "/",
         "showAll": false,
         "search": true,
         "params": {
@@ -29,24 +29,9 @@
             }
         }
     },
-            {
-        "name": "小雅|每日更新",
-        "server": "http://alist.xiaoya.pro/",
-        "startPage": "/每日更新",
-        "showAll": false,
-        "search": true,
-        "params": {
-            "/abc": {
-                "password": "123"
-            },
-            "/abc/abc": {
-                "password": "123"
-            }
-        }
-    },
-                {
-        "name": "澪のcloud",
-        "server": "https://cloud.linguistic.icu/",
+    {
+        "name": "roko89",
+        "server": "https://ali.roko89.repl.co/",
         "startPage": "/",
         "showAll": false,
         "search": true,
