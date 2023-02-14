@@ -2,23 +2,23 @@
 	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 	"sites":[
     
-    {"key":"t4public","name":"🔍影视推荐22","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"t4public","name":"🅱影视推荐","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":0,"quickSearch":0,"filterable":0},
 
     {"key":"IKan","name":"⭐视频 | 爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
     {"key":"小苹果","name":"⭐视频 | 苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "Lezhu_spider","name": "⭐视频 | 乐猪","api": "csp_Lezhu","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
 
-    {"key":"csp_Czsapp","name":"💥视频 | 厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Czsapp","name":"💥视频 | 厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":3},
 //    {"key":"csp_Bd","name":"💥视频 | 哔滴","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Ddys","name":"💥视频 | 低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 
     {"key": "NoSearch_Bdys_spider","name": "哔滴影视","api": "csp_Bdys01","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
 
-    
-    {"key":"csp_Cokemv","name":"🍀视频 | Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+    {"key": "快看影视","name": "🍀视频 | 快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+    {"key":"csp_Cokemv","name":"🍀视频 | Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"playerType":3},
     {"key":"BuLei","name":"🍀视频 | 布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"🍀视频 | 奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},    
-    {"key":"csp_Xinsj","name":"🍀视频 | 视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Xinsj","name":"🍀视频 | 视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
     {"key":"csp_panghu","name":"🍀视频 | 胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Voflix","name":"🍀视频 | Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
     {"key": "csp_xpNmys","name": "🍀视频 | 农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
@@ -28,8 +28,6 @@
     {"key":"csp_XYQBiu_17kan","name":"🏀体育 | 17kan","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXB/17kan.json"},
 
 
-    {"key":"csp_AppTT","name":"🐼视频 | 图图","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
-    {"key":"csp_77","name":"🐼视频 | 七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;92a58defedc77459ca0139972fb05754"},
 
 
     {"key":"csp_AList","name":"🔍网盘 | AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
@@ -44,11 +42,8 @@
     {"key":"py_cctv","name":"📦合集 | CCTV","type":3,"api":"py_cctv","searchable":"0","quickSearch":"0","filterable":"0","ext":"https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cctv.py"},
 
 
-    {"key": "快看影视","name": "快看影视11","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"}
-
-
- 
-
+    {"key":"csp_AppTT","name":"🐼视频 | 图图","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
+    {"key":"csp_77","name":"🐼视频 | 七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;92a58defedc77459ca0139972fb05754"}
 
 
     ],
