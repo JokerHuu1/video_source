@@ -1,10 +1,8 @@
-
-
 {
 	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 	"sites":[
     
-    {"key":"t4public","name":"🔍影视推荐11","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"t4public","name":"🔍影视推荐22","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":0,"quickSearch":0,"filterable":0},
 
     {"key":"IKan","name":"⭐视频 | 爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
     {"key":"小苹果","name":"⭐视频 | 苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -21,7 +19,7 @@
     {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-    {"key": "csp_xpNmys","name": "🍀视频 | 农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"}
+    {"key": "csp_xpNmys","name": "🍀视频 | 农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
 
 
     {"key":"dr_JRKAN直播","name":"🏀体育 | JRSKAN","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
