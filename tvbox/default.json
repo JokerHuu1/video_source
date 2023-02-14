@@ -1,3 +1,4 @@
+
 {
 	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 	"sites":[
@@ -42,9 +43,7 @@
     {"key":"csp_77","name":"👒七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;92a58defedc77459ca0139972fb05754"},
     {"key":"csp_AppTT","name":"🐰图图┃SP","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
 
-    {"key":"Dy555","name":"⚪视频 | 555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"http://hutool.ml/jar"},
-    {"key":"AppTT","name":"⚪视频 | 图图2","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://hutool.ml/jar"},
-    {"key":"Kunyu77","name":"⚪视频 | 七七","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0","jar":"http://hutool.ml/jar"},
+    {"key":"Dy555","name":"⚪视频 | 555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"http://hutool.ml/jar;md5;270fe5543b8cde61c2e7ff7e823a34c9"},
 
     {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://notabug.org/imbig66/tv-spider-man/raw/master/jar/258733"},
     {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://y.xy47.top/down.php/f1119df4fc629e71103cc19e2c7b2338"},
