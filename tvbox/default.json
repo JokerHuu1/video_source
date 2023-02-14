@@ -1,9 +1,8 @@
-
 {
 	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 	"sites":[
     
-    {"key":"t4public","name":"🔍影视推荐(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"t4public","name":"🔍影视推荐","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":0,"quickSearch":0,"filterable":0},
 
     {"key":"IKan","name":"⭐视频 | 爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
     {"key":"小苹果","name":"⭐视频 | 苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -40,12 +39,15 @@
     {"key":"NoSearch_Yj1211_spider","name":"📦合集 | 直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":"0","filterable":"0","playerType":2,"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961","categories":["哔哩哔哩","虎牙","斗鱼","网易CC","推荐"]},
     {"key":"py_cctv","name":"📦合集 | CCTV","type":3,"api":"py_cctv","searchable":"0","quickSearch":"0","filterable":"0","ext":"https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cctv.py"},
 
+    {"key": "Lezhu_spider","name": "乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+    {"key": "快看影视","name": "快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+    {"key": "csp_77","name": "酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+
+    {"key": "py_kunyu77","name": "🔥七七","type": 3,"api": "py_kunyu77","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_kunyu77.py"},
     {"key":"csp_77","name":"👒七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;92a58defedc77459ca0139972fb05754"},
     {"key":"csp_AppTT","name":"🐰图图┃SP","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
-
     {"key":"Dy555","name":"⚪视频 | 555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"http://hutool.ml/jar;md5;270fe5543b8cde61c2e7ff7e823a34c9"},
 
-    {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://notabug.org/imbig66/tv-spider-man/raw/master/jar/258733"},
     {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://y.xy47.top/down.php/f1119df4fc629e71103cc19e2c7b2338"},
     {"key":"csp_Kuaikan","name":"🎈快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/imbig66/tv-spider-man/raw/master/jar/258602"},
 
