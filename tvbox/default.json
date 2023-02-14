@@ -29,7 +29,7 @@
 
 
 
-
+    {"key":"Alist","name":"🔍网盘 | AListq","type":3,"api":"http://101.34.67.237/libs/alist.min.js","searchable":"1","quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/alist.json"},
     {"key":"csp_AList","name":"🔍网盘 | AList","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
     {"key":"Paper","name":"🔍网盘 | 纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
     {"key":"PanSou","name":"🔍网盘 | 盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
