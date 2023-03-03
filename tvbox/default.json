@@ -22,7 +22,8 @@
 
 
 
-    {"key":"dr_JRKAN直播","name":"🏀体育 | JRSKAN22","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/jrskan.js"},
+    {"key":"dr_JRKAN直播","name":"🏀体育 | JRSKAN11","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/jrskan.js"},
+    {"key":"dr_JRKAN直播2","name":"🏀体育 | JRSKAN22","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/heroaku/drpy/master/js/JRKAN%E7%9B%B4%E6%92%AD.js"},
 //    {"key":"csp_JRSKan","name": "🏀体育 | JRSKAN备用","type": 3,"api": "csp_XPathFilter","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://framagit.org/00700/tvbox/-/raw/main/XPathFilter/JRSKan.json"},
     {"key":"csp_XYQBiu_17kan","name":"🏀体育 | 17kan","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXB/17kan.json"},
 
