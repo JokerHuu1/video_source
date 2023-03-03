@@ -12,13 +12,17 @@
     {"key":"csp_Bd","name":"💥视频 | 哔滴","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Ddys","name":"💥视频 | 低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 
+
+
+    
+    {"key":"kanhanju","name":"kanhanju","type":3,"api":"csp_XYQBiu","searchable":01,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/heroaku/drpy/master/js/%E7%9C%8B%E9%9F%A9%E5%89%A7.js"},
     {"key":"快看影视","name": "🍀视频 | 快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
     {"key":"BuLei","name":"🍀视频 | 布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Xinsj","name":"🍀视频 | 视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
 
 
-    {"key":"dr_JRKAN直播","name":"🏀体育 | JRSKAN1","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/jrskan.js"},
+    {"key":"dr_JRKAN直播","name":"🏀体育 | JRSKAN22","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/jrskan.js"},
 //    {"key":"csp_JRSKan","name": "🏀体育 | JRSKAN备用","type": 3,"api": "csp_XPathFilter","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://framagit.org/00700/tvbox/-/raw/main/XPathFilter/JRSKan.json"},
     {"key":"csp_XYQBiu_17kan","name":"🏀体育 | 17kan","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXB/17kan.json"},
 
