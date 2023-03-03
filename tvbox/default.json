@@ -22,9 +22,8 @@
 
 
 
-    //{"key":"dr_JRKAN1","name":"🏀体育 | JRSKAN1","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/jrskan.js"},
-    {"key":"dr_JRKAN2","name":"🏀体育 | JRSKAN2","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN%e7%9b%b4%e6%92%ad.js"},
-    //{"key":"dr_JRKAN3","name":"🏀体育 | JRSKAN3","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/jrskan2.js"},
+    {"key":"dr_JRKAN直播","name":"🏀体育 | JRSKAN22","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/jrskan.js"},
+//    {"key":"csp_JRSKan","name": "🏀体育 | JRSKAN备用","type": 3,"api": "csp_XPathFilter","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://framagit.org/00700/tvbox/-/raw/main/XPathFilter/JRSKan.json"},
     {"key":"csp_XYQBiu_17kan","name":"🏀体育 | 17kan","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXB/17kan.json"},
 
     {"key":"NoSearch_Yj1211_spider","name":"📦合集 | 直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":"0","filterable":"0","playerType":2,"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961","categories":["哔哩哔哩","虎牙","斗鱼","网易CC","推荐"]},
