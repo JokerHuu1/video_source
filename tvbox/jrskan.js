@@ -29,7 +29,7 @@ var rule = {
     lazy:'',
     limit:6,
     double:false,
-    cate_exclude:'主播',
+    cate_exclude:'主播解说①',
 
     推荐:'*',
     // 一级播放线路x3 可自行切换
