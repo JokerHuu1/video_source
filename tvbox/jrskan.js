@@ -29,8 +29,7 @@ var rule = {
     lazy:'',
     limit:6,
     double:false,
-    cate_exclude:'主播解说①',
-    tab_exclude:'主播',
+    tab_exclude:'主播解说①',
 
 
     推荐:'*',
