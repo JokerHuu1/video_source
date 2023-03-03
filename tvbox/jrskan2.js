@@ -7,7 +7,7 @@ var rule = {
     searchUrl:'',
     searchable:0,
     quickSearch:0,
-    class_name:'全部',
+    class_name:'全部赛事',
     class_url:'/',
     //class_url:'?live',
     headers:{
@@ -19,7 +19,9 @@ var rule = {
     limit:6,
     double:false,
     推荐:'*',
+	
     // 一级:'.loc_match:eq(2) ul;li:gt(1):lt(4)&&Text;img&&src;li:lt(2)&&Text;a:eq(1)&&href',//play.sportsteam333.com
+	
     一级:"js:var items=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);var tabs=pdfa(html,'body&&.d-touch');tabs.forEach(function(it){var pz=pdfh(it,'.name:eq(1)&&Text');var ps=pdfh(it,'.name:eq(0)&&Text');var pk=pdfh(it,'.name:eq(2)&&Text');var img=pd(it,'img&&src');var timer=pdfh(it,'.lab_time&&Text');var url=pd(it,'a&&href');items.push({desc:timer+' '+ps,title:pz+'vs'+pk,pic_url:img,url:url})});setResult(items);",
     二级:{
 		"title":".sub_list li:lt(2)&&Text;.sub_list li:eq(0)&&Text",
