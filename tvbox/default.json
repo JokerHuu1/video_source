@@ -16,7 +16,7 @@
     {"key":"csp_DiDuan","name":"🅱️ | 视频 | 低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"csp_Zxzj","name":"🅱️ | 视频 | 在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 
-    {"key":"快看","name":"💠 | 视频 | 快看2","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"快看","name":"💠 | 视频 | 快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"BuLei","name":"💠 | 视频 | 布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 
     {"key":"csp_Voflix","name":"🔷 | 视频 | Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
