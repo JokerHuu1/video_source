@@ -1,28 +1,28 @@
 {
 	"sites":[
-    {"key":"dr_豆瓣","name":"🅰✅✴️❇️🟩🅰️🅱️1️⃣2️⃣3️⃣ | 影视推荐","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
-    {"key":"dr_JRKAN直播","name":"🏀 | 体育 | jrskan","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/jrskan.js"},
+    {"key":"dr_豆瓣","name":"⏰ | 影视推荐","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
+    {"key":"dr_JRKAN直播","name":"⚽ | 体育 | jrskan","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/jrskan.js"},
 
-    {"key":"小苹果","name":"✅ | 视频 | 苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Auete","name":"✅ | 视频 | 奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},   
-    {"key":"csp_XBPQ_爱看","name":"✅ | 视频 | 爱看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"},
-    {"key":"csp_77","name":"✅ | 视频 | 七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"小苹果","name":"🅰️ | 视频 | 苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Auete","name":"🅰️ | 视频 | 奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},   
+    {"key":"csp_XBPQ_爱看","name":"🅰️ | 视频 | 爱看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"},
+    {"key":"csp_77","name":"🅰️ | 视频 | 七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
-    {"key":"csp_Czsapp","name":"🟡 | 视频 | 厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":3},
-    {"key":"csp_Bd","name":"🟡 | 视频 | 哔滴","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_DiDuan","name":"🟡 | 视频 | 低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-    {"key":"csp_Zxzj","name":"🟡 | 视频 | 在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Czsapp","name":"🅱️ | 视频 | 厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":3},
+    {"key":"csp_Bd","name":"🅱️ | 视频 | 哔滴","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_DiDuan","name":"🅱️ | 视频 | 低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"csp_Zxzj","name":"🅱️ | 视频 | 在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 
-    {"key":"快看影视","name": "🔴 | 视频 | 快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
-    {"key":"BuLei","name":"🔴 | 视频 | 布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"快看影视","name": "💠 | 视频 | 快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+    {"key":"BuLei","name":"💠 | 视频 | 布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 
-    {"key":"csp_Yj1211","name":"📦 | 合集 | 直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1,"categories":["哔哩哔哩","斗鱼","虎牙","网易CC","推荐"]},
-    {"key":"py_cctv","name":"📦 | 合集 | CCTV","type":3,"api":"py_cctv","searchable":"0","quickSearch":"0","filterable":"0","ext":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cctv.py"},
+    {"key":"csp_Yj1211","name":"🈴 | 合集 | 直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1,"categories":["哔哩哔哩","斗鱼","虎牙","网易CC","推荐"]},
+    {"key":"py_cctv","name":"🈴 | 合集 | CCTV","type":3,"api":"py_cctv","searchable":"0","quickSearch":"0","filterable":"0","ext":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_cctv.py"},
 
-    {"key":"csp_Voflix","name":"🟤 | 视频 | Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Cokemv","name":"🟤 | 视频 | Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"playerType":3},
-    {"key": "csp_xpNmys","name": "🟤 | 视频 | 农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
-    {"key": "Lezhu_spider","name": "🟤 | 视频 | 乐猪","api": "csp_Lezhu","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+    {"key":"csp_Voflix","name":"🔷 | 视频 | Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Cokemv","name":"🔷 | 视频 | Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"playerType":3},
+    {"key": "csp_xpNmys","name": "🔷 | 视频 | 农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
+    {"key": "Lezhu_spider","name": "🔷 | 视频 | 乐猪","api": "csp_Lezhu","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
 
     {"key":"Alist","name":"☁️ | 网盘 | AList","type":3,"api":"http://101.34.67.237/libs/alist.min.js","searchable":"1","quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/alist.json"},
     {"key":"Paper","name":"☁️ | 网盘 | 纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
