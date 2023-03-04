@@ -1,13 +1,14 @@
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;061CE289522D4CF8FE68955937373CE0",
 	"sites":[
-    {"key":"dr_豆瓣","name":"🅱影视推荐","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
-    {"key":"t4public","name":"🅱影视推荐","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&timeout=10","searchable":0,"quickSearch":0,"filterable":0},
+    {"key":"dr_豆瓣","name":"🅱影视推荐","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 
-    {"key":"IKan","name":"⭐视频 | 爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
+    {"key":"csp_XBPQ_爱看","name":"💢爱看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"},
+
+    {"key":"IKan","name":"⭐视频 | 爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/qj.jar"},
     {"key":"小苹果","name":"⭐视频 | 苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"⭐视频 | 奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},   
-    {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_77","name":"⭐视频 | 七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
     {"key":"csp_Czsapp","name":"💥视频 | 厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":3},
     {"key":"csp_Bd","name":"💥视频 | 哔滴","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
@@ -44,6 +45,7 @@
     {"name":"Web聚合","type":3,"url":"Web"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
+    {"name":"肥猫","type": 1,"url":"https://b.umkan.cc/API.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
     {"name":"解析1","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"解析2","type":0,"url":"https://jx.xmflv.com/?url="},
     {"name":"解析3","type":0,"url":"http://www.miaoys.cc/vip/?url="},
