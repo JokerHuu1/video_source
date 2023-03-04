@@ -1,7 +1,7 @@
 {
 	"sites":[
     {"key":"dr_豆瓣","name":"⏰ | 影视推荐","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
-    {"key":"dr_JRKAN直播","name":"⚽ | 体育 | jrskan","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jsd.cdn.zzko.cn/gh/JokerHuu1/video_source@main/tvbox/jrskan.js"},
+    {"key":"dr_JRKAN直播","name":"⚽ | 体育 | jrskan","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jsd.cdn.zzko.cn/gh/JokerHuu1/video_source@main/tvbox/jrskan%E7%9B%B4%E6%92%AD.js"},
 
     {"key":"小苹果","name":"🅰️ | 视频 | 苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Auete","name":"🅰️ | 视频 | 奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},   
