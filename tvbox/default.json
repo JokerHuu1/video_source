@@ -1,6 +1,6 @@
 {
 	"sites":[
-    {"key":"dr_豆瓣","name":"⏰ | 影视推荐","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
+    {"key":"dr_豆瓣","name":"⏰ | 影视推荐1","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
     {"key":"dr_JRKAN直播","name":"⚽ | 体育 | jrskan","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN%E7%9B%B4%E6%92%AD.js"},
 
     {"key":"小苹果","name":"🅰️ | 视频 | 苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -16,8 +16,8 @@
     {"key":"csp_DiDuan","name":"🅱️ | 视频 | 低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"csp_Zxzj","name":"🅱️ | 视频 | 在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 
-//    {"key":"快看影视","name": "💠 | 视频 | 快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
-    {"key":"快看","name":"💠 | 视频 | 快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"快看影视","name": "💠 | 视频 | 快看1","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"},
+//    {"key":"快看","name":"💠 | 视频 | 快看2","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"BuLei","name":"💠 | 视频 | 布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 
     {"key":"csp_Voflix","name":"🔷 | 视频 | Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
