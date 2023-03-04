@@ -18,7 +18,7 @@
     {"key":"csp_Xinsj","name":"🍀视频 | 视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
     {"key":"dr_JRKAN直播","name":"🏀体育 | JRSKAN","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/bak.js"},
-    {"key":"dr_JRKAN直播3","name":"🏀体育 | JRSKAN新","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/jrskan2.js"},
+    {"key":"dr_JRKAN直播3","name":"🏀体育 | JRSKAN新","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/bak.js"},
     {"key":"csp_XYQBiu_17kan","name":"🏀体育 | 17kan","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/franksun1211/TVBOX/main/APP/MaooXB/17kan.json"},
 
     {"key":"NoSearch_Yj1211_spider","name":"📦合集 | 直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":"0","filterable":"0","playerType":2,"jar":"http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961","categories":["哔哩哔哩","虎牙","斗鱼","网易CC","推荐"]},
