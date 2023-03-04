@@ -1,12 +1,12 @@
 {
 	"sites":[
-    {"key":"dr_豆瓣","name":"🅰 | 影视推荐","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
+    {"key":"dr_豆瓣","name":"🅰✅✴️❇️🟩🅰️🅱️1️⃣2️⃣3️⃣ | 影视推荐","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
     {"key":"dr_JRKAN直播","name":"🏀 | 体育 | jrskan","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/JokerHuu1/video_source/main/tvbox/jrskan.js"},
 
-    {"key":"小苹果","name":"🟢 | 视频 | 苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Auete","name":"🟢 | 视频 | 奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},   
-    {"key":"csp_XBPQ_爱看","name":"🟢 | 视频 | 爱看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"},
-    {"key":"csp_77","name":"🟢 | 视频 | 七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"小苹果","name":"✅ | 视频 | 苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Auete","name":"✅ | 视频 | 奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},   
+    {"key":"csp_XBPQ_爱看","name":"✅ | 视频 | 爱看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"},
+    {"key":"csp_77","name":"✅ | 视频 | 七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
     {"key":"csp_Czsapp","name":"🟡 | 视频 | 厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":3},
     {"key":"csp_Bd","name":"🟡 | 视频 | 哔滴","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
