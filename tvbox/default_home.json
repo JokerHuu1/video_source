@@ -17,7 +17,7 @@
     {"key": "Lezhu_spider","name": "🔷 | 视频 | 乐猪","api": "csp_Lezhu","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"}
 
      ],
-  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=http://ht.grelighting.cn/html/zb.txt"]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt"]}]}],
   "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;061CE289522D4CF8FE68955937373CE0",
   "parses":[
     {"name":"解析聚合","type":3,"url":"Demo"},
