@@ -17,7 +17,7 @@
     {"key": "Lezhu_spider","name": "🔷 | 视频 | 乐猪","api": "csp_Lezhu","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"jar": "http://cdn.qiaoji8.com/qj231121.jar;md5;4cf4efad16e59924758aa97d2a1a7961"}
 
      ],
-  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt"]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=http://ht.grelighting.cn/html/zb.txt"]}]}],
   "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;061CE289522D4CF8FE68955937373CE0",
   "parses":[
     {"name":"解析聚合","type":3,"url":"Demo"},
@@ -27,7 +27,7 @@
     {"name":"0","type":1,"url":"https://b.umkan.cc/API.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
     {"name":"1","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
     {"name":"2","type":0,"url":"https://jx.xmflv.com/?url="},
-    {"name":"3","type":0,"url":"http://www.miaoys.cc/vip/?url="}，
+    {"name":"3","type":0,"url":"http://www.miaoys.cc/vip/?url="},
     {"name":"4","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     {"name":"5","type":0,"url":"https://okjx.cc/?url="},
     {"name":"6","type":0,"url":"https://jx.iztyy.com/svip/?url="},
