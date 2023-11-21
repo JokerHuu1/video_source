@@ -19,7 +19,7 @@
 
       {"key":"快看","name":"💠 | 视频 | 快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
   //  {"key":"BuLei","name":"💠 | 视频 | 布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
-      {"key":"棉花影视","name":"💠 | 视频 | 棉花","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"}，
+      {"key":"棉花影视","name":"💠 | 视频 | 棉花","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
       {"key":"csp_Voflix","name":"🐰 | 视频 | Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
       {"key":"csp_Cokemv","name":"🐰 | 视频 | Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"playerType":3},
   //  {"key":"csp_xpNmys","name":"🐰 | 视频 | 农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1029.jpg;md5;76d9feb59eb08b1932ea3b73f3654f7e"},
@@ -60,4 +60,3 @@
   "ads":["wan.51img1.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
-
