@@ -20,9 +20,7 @@
 		{"key":"csp_Cokemv","name":"💠 | 视频 | Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"playerType":3},
 		{"key":"乐猪","name":"💠 | 视频 | 乐猪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/乐猪.json"},
 		{"key":"农民","name":"💠 | 视频 | 农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"},
-		{"key":"csp_WoGG","name":"💠 | 视频 | 玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
-
-
+		{"key":"csp_WoGG","name":"💠 | 视频 | 玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 
 	//	{"key":"小苹果","name":"🅰️ | 视频 | 苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
 	//	{"key":"csp_XBPQ_爱看","name":"🅰️ | 视频 | 爱看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"}，
