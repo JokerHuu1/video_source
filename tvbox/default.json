@@ -19,20 +19,22 @@
 		{"key":"乐猪","name":"💠 | 视频 | 乐猪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/乐猪.json"},
 
 
-//		{"key":"小苹果","name":"🅰️ | 视频 | 苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
-//		{"key":"csp_XBPQ_爱看","name":"🅰️ | 视频 | 爱看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"},
-//		{"key":"csp_DiDuan","name":"🅱️ | 视频 | 低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-//		{"key":"csp_CZSPP","name":"🅱️ | 视频 | 厂长","type":3,"api":"csp_Czsapp"，  "searchable":1,"playerType":3,"quickSearch":1,"filterable":0,"jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
-//		{"key":"NoSearch_Bdys_spider","name":"🅱️ | 视频 | 哔滴","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
+/*
+		{"key":"小苹果","name":"🅰️ | 视频 | 苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
+		{"key":"csp_XBPQ_爱看","name":"🅰️ | 视频 | 爱看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"},
+		{"key":"csp_DiDuan","name":"🅱️ | 视频 | 低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+		{"key":"csp_CZSPP","name":"🅱️ | 视频 | 厂长","type":3,"api":"csp_Czsapp"，  "searchable":1,"playerType":3,"quickSearch":1,"filterable":0,"jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
+		{"key":"NoSearch_Bdys_spider","name":"🅱️ | 视频 | 哔滴","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
 
-//		{"key":"BuLei","name":"💠 | 视频 | 布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
-//		{"key":"棉花影视","name":"💠 | 视频 | 棉花","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
-//		{"key":"csp_Voflix","name":"🐰 | 视频 | Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"BuLei","name":"💠 | 视频 | 布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"棉花影视","name":"💠 | 视频 | 棉花","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"http://cdn.qiaoji8.com/fix0703.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
+		{"key":"csp_Voflix","name":"🐰 | 视频 | Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 
-//		{"key":"Alist","name":"🔍 | 网盘 | AList","type":3,"api":"http://101.34.67.237/libs/alist.min.js","searchable":"1","quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/JokerHuu1/video_source/main/tvbox/alist.json"},
-//		{"key":"Paper","name":"🔍 | 网盘 | 纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
-//		{"key":"Zhaozy","name":"🔍 | 网盘 | 资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"},
-
+		{"key":"Alist","name":"🔍 | 网盘 | AList","type":3,"api":"http://101.34.67.237/libs/alist.min.js","searchable":"1","quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/JokerHuu1/video_source/main/tvbox/alist.json"},
+		{"key":"Paper","name":"🔍 | 网盘 | 纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
+		{"key":"Zhaozy","name":"🔍 | 网盘 | 资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"},
+*/
+		
 		{"key":"PanSou","name":"🔍 | 网盘 | 盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
  		{"key":"YiSo","name":"🔍 | 网盘 | 易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 		{"key":"UpYun","name":"🔍 | 网盘 | 云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"}
